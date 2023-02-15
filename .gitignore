@@ -1,0 +1,9 @@
+/.idea/
+/ios/
+/.dart_tool/
+/build/
+/android/
+/.packages
+/lib/main.dart
+/web/
+/flutter_camera_overlay.iml
