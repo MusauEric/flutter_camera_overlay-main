@@ -13,10 +13,11 @@ as national ID cards, passports and driving licenses.
 Import the file.
 
 ### Add to pubspec.yaml:
-### dependencies:
+```dart
 flutter_camera_overlay:
   git:
     url: https://github.com/MusauEric/flutter_camera_overlay-main.git
+```
 
 ```dart
 import 'package:flutter_camera_overlay/flutter_camera_overlay.dart';
